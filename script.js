@@ -48,7 +48,7 @@ const quotes = [{
     writer: `-  Bob Marley`
 },{
     quote: `“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”`,
-    writer: `- J.K. Rowling, Harry Potter and the Goblet of Fire`
+    writer: `- J.K. Rowling`
 },{
     quote: `“A friend is someone who knows all about you and still loves you.”`,
     writer: `-  Elbert Hubbard`
