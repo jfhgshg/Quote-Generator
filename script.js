@@ -46,6 +46,36 @@ const quotes = [{
 },{
     quote: `"Love the life you live. Live the life you love."`,
     writer: `-  Bob Marley`
+},{
+    quote: `“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”`,
+    writer: `- J.K. Rowling, Harry Potter and the Goblet of Fire`
+},{
+    quote: `“A friend is someone who knows all about you and still loves you.”`,
+    writer: `-  Elbert Hubbard`
+},{
+    quote: `“It is better to be hated for what you are than to be loved for what you are not.”`,
+    writer: `-  Andre Gide, Autumn Leaves`
+},{
+    quote: `“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”`,
+    writer: `-  Marilyn Monroe`
+},{
+    quote: `“Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.”`,
+    writer: `-  Neil Gaiman, Coraline`
+},{
+    quote: `“I have not failed. I've just found 10,000 ways that won't work.”`,
+    writer: `-  Thomas A. Edison`
+},{
+    quote: `“There is no greater agony than bearing an untold story inside you.”`,
+    writer: `-  Maya Angelou, I Know Why the Caged Bird Sings`
+},{
+    quote: `“Never put off till tomorrow what may be done day after tomorrow just as well.”`,
+    writer: `-  Mark Twain`
+},{
+    quote: `“We don't see things as they are, we see them as we are.”`,
+    writer: `-  Anaïs Nin`
+},{
+    quote: `“Life isn't about finding yourself. Life is about creating yourself.”`,
+    writer: `-  George Bernard Shaw`
 },
 ]
 
